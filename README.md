@@ -1,5 +1,5 @@
 # HEADER FOR MY GitHub PROJECT
 ## SUB HEADER
 '''
-FIRST TRY
+Type any text of your choosing
 '''
